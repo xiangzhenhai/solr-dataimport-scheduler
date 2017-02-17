@@ -1,5 +1,5 @@
 # solr-dataimport-scheduler
-此项目用于定时增量更新和定时全量更新solr中的数据，含有源码和jar文件。<br>
+此项目用于定时增量更新和定时全量更新solr中的数据，含有源码和jar文件，适用solr版本为solr-6.2.0。<br>
 
 基于Apache Solr DataImportHandler Scheduler，感谢原作者。<br>
 URL：https://code.google.com/archive/p/solr-data-import-scheduler/<br>
